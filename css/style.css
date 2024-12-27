@@ -2831,7 +2831,9 @@ body[data-page="jop"] {
        }
     }
   }
-  @media (max-width: 991px) {
+}
+}
+      @media (max-width: 991px) {
     #career {
         margin-top: 148px;
         min-height: calc(100vh - 148px);
@@ -2843,8 +2845,6 @@ body[data-page="jop"] {
         min-height: calc(100vh - 120px);
     }
   }
-}
-}
 }
 /*! End Jop */
 /*! Start Research */
