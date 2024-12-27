@@ -2010,7 +2010,7 @@ color: var(--button-bg-color);
   }
   @media (max-width:640px){
     #how p:nth-child(1){
-      font-size:2.4rem !important ;
+      font-size:2.1rem !important ;
     }
   }
   #how .container{
