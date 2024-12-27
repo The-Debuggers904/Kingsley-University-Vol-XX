@@ -43,7 +43,7 @@ if (page === "home") {
           setTimeout(() => {
               splashScreen.style.display = 'none';
           }, 1000); 
-      }, 4500); 
+      }, 3300); 
   });
 
 
