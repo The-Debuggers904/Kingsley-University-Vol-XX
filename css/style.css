@@ -2280,7 +2280,7 @@ color: var(--button-bg-color);
 /* *STUB - Start Left Side */
 .contact-l-side{
   background-color: var(--bg-color);
-  z-index: 1;
+  z-index: 5;
 }
 .contact-l-side h1{
   padding: 15px;
