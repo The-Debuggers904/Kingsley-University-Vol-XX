@@ -2027,7 +2027,7 @@ color: var(--button-bg-color);
     position: relative;
     z-index: -1;
   }
-  #how .main-title{
+  #how .how-title{
     margin-left: 90px;
     font-size: 1.6rem;
     background-color: var(--button-bg-color);
@@ -2069,6 +2069,14 @@ color: var(--button-bg-color);
   .go-right, .go-left{
     transform: translateX(0) !important;
     opacity: 1 !important;
+  }
+  @media (max-width: 991px) {
+    #how .step.left,
+    #how .step.right,
+    .go-right, .go-left {
+      transform: translateX(0);
+      opacity: 1;
+    }
   }
   /* *SECTION - End How */
   /* *SECTION - Start apply */
